@@ -22,7 +22,7 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 
 ## 使用
 
-直接在copy出来的url前加`https://gh.api.99988866.xyz/`即可
+直接在copy出来的url前加`https://gh.mrmh.workers.dev/`即可
 
 也可以直接访问，在input输入
 
@@ -107,6 +107,3 @@ python版本默认走服务器（2021.3.27更新）
 [jsproxy](https://github.com/EtherDream/jsproxy/)
 
 ## 捐赠
-
-![wx.png](https://img.maocdn.cn/img/2021/04/24/image.md.png)
-![ali.png](https://www.helloimg.com/images/2021/04/24/BK9vmb.md.png)
