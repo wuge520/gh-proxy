@@ -6,7 +6,7 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 
 ## 演示
 
-[https://gh.api.99988866.xyz/](https://gh.api.99988866.xyz/)
+[GitHub加速](https://gh.mrmh.workers.dev/)
 
 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
 
